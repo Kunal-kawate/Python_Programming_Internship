@@ -14,3 +14,6 @@ During my internship, I worked on diverse Python projects, including:
 This internship provided me with invaluable learning opportunities, where I:
 - Gained a solid understanding of the fundamentals of Python programming.
 - Explored different Python modules for automating tasks and enhancing efficiency.
+
+![PPT on Internship](https://github.com/Kunal-kawate/Python_Programming_Internship/blob/main/ReadMeImg/Screenshot%20(71).png)
+![Internship Certificate](https://github.com/Kunal-kawate/Python_Programming_Internship/blob/main/ReadMeImg/Screenshot%20(72).png)
