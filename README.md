@@ -1,6 +1,6 @@
 
 ## Python Programming Internship Experience at Oasis Infobyte
-![Report Certificate](ReadMeImg\Screenshot (70).png)
+![Report Certificate](https://github.com/Kunal-kawate/Python_Programming_Internship/blob/main/ReadMeImg/Screenshot%20(70).png)
 ### Overview
 I recently completed a one-month Python programming internship at Oasis Infobyte, conducted entirely online. Throughout this internship, I delved into various Python tasks, honing my skills and gaining practical experience.
 
